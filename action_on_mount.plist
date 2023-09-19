@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>MOUNT_BOT_TOKEN</key>
+        <string>MOUNT_BOT_TOKEN_VALUE</string>
+        <key>MOUNT_USER_TO_SEND</key>
+        <string>MOUNT_USER_TO_SEND_VALUE</string>
+    </dict>
+    <key>Label</key>
+    <string>LOCAL_NAME_HERE</string>
+    <key>Program</key>
+    <string>LOCAL_PATH_HERE/LOCAL_RUN_FILE_NAME_HERE</string>
+    <key>StartOnMount</key>
+    <true/>
+    <key>WatchPaths</key>
+    <array>
+        <string>/Volumes/</string>
+    </array>
+</dict>
+</plist>

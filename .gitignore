@@ -1,0 +1,4 @@
+.env
+.envrc
+action_on_mount.sh
+tmp.plist
